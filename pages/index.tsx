@@ -7,7 +7,7 @@ import { NextPage } from 'next'
 import Navbar from '../components/Navbar'
 import Disconnected from '../components/Disconnected'
 import { useWallet } from "@solana/wallet-adapter-react"
-import Connected from "../components/connected"
+import Connected from "../components/Connected"
 const inter = Inter({ subsets: ['latin'] })
 
 const Home:NextPage=()=>{
