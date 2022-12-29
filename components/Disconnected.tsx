@@ -25,7 +25,7 @@ const Disconnected :FC=() => {
     return(
         <Container>
             <VStack spacing={20}>
-                <Heading color="white" as="h1" size="3x1" noOfLines={2} textAlign background="#009444" padding="3px" borderRadius="35px">
+                <Heading color="white" as="h1" size="3x1" noOfLines={2} textAlign="center" background="#009444" padding="3px" borderRadius="35px">
                     Mint your BuildDoor, Earn $BLD LEVEL up
                 </Heading>
                 <Button
