@@ -1,0 +1,23 @@
+{
+  "name": "Ship on portside",
+  "symbol": "PRT",
+  "description": "A ship reaching port ,with a house on the mountains ",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Shipcolor",
+      "value": "blue"
+    },{
+        "trait_type":"BackgroundColor",
+        "value":"brown-blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

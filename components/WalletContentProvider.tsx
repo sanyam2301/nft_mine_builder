@@ -11,7 +11,7 @@ require("@solana/wallet-adapter-react-ui/styles.css")
 
 const WalletContextProvider: FC<{ children: ReactNode }> = ({ children }) => {
   const url = useMemo(() => clusterApiUrl("devnet"), [])
-  const phantom = new PhantomWalletAdapter();
+  const phantom = useMemo(()=>new PhantomWalletAdapter(),[]);
   const coinBase= new CoinbaseWalletAdapter();
   const sollet=new SolletWalletAdapter();
   const torus=new TorusWalletAdapter();
@@ -21,7 +21,7 @@ const WalletContextProvider: FC<{ children: ReactNode }> = ({ children }) => {
 
   return (
     <ConnectionProvider endpoint={url}>
-      <WalletProvider wallets={[phantom,coinBase,sollet,torus,bitpie,clover]}>
+      <WalletProvider wallets={[phantom,coinBase,sollet,torus,bitpie,clover]} autoConnect={true}>
         <WalletModalProvider>{children}</WalletModalProvider>
       </WalletProvider>
     </ConnectionProvider>

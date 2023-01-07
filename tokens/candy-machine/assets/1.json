@@ -1,0 +1,23 @@
+{
+  "name": "sailor ship",
+  "symbol": "PRT",
+  "description": "The scenery of ship sitting near shore looked upon by a islander",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Shipcolor",
+      "value": "black-grey"
+    },{
+        "trait_type":"BackgroundColor",
+        "value":"blue-orange"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

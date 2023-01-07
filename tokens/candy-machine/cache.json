@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "BWhbXfVrvcURX5C5ZeJZr1nP1q7coerdyDsRWJbitpFA",
+    "candyMachineCreator": "EjpRTasH95P6ePUkwjHRJtyT2VtRit6RYryRpWA9nsfB",
+    "collectionMint": "H5eBbQ81KSiKntD9B8cHy776WHruepn9uUmW4A9MtKL6"
+  },
+  "items": {
+    "-1": {
+      "name": "Pirate Ships collection",
+      "image_hash": "3e56c8e5e2e6bc73cfcafe13faa0c1daf75e004595fa145450d6dd224167c245",
+      "image_link": "https://arweave.net/XvxUHPMPvBaqFKtm6hizMazhgXE2wKS8oaffEMB_D7U?ext=png",
+      "metadata_hash": "9907c90a5d3eed76f7d10bfaff17a5af73076503e78ccb97d21f3f1cb6999139",
+      "metadata_link": "https://arweave.net/kGFj5QlL_Gv6Fx-KKN-epG3oIELYMGMjzX5o0vcqzsQ",
+      "onChain": true
+    },
+    "0": {
+      "name": "Pirate ships",
+      "image_hash": "21ada45406008b6563f3911d04cbe5f48c7857a6b27877ac4eddf65907cc31c3",
+      "image_link": "https://arweave.net/d7uq0_PG8vZpX4KQ9NaZcCQWx1t0SrqeHBm1wVVXYWM?ext=png",
+      "metadata_hash": "b7cd3742b94c4465c7d6617ae50fb9ec046721c22bce77af5080ad05bedaa603",
+      "metadata_link": "https://arweave.net/woCk0v6wp5gpUqS4z-6V0-AD4TRnvwWaWvkEPhAAIlU",
+      "onChain": true
+    },
+    "1": {
+      "name": "sailor ship",
+      "image_hash": "da55efe811c1ee730d0af4a06428c8065df4611a4e06ec91479c200ce61cd08b",
+      "image_link": "https://arweave.net/WU6_p1J8_5A8aHLknA2zlZ6c1to8trrPOlOV4p8w_6s?ext=png",
+      "metadata_hash": "9d3d8618331ed59900ba52eb0d27d78deadf9993c750407074a70936af987ad2",
+      "metadata_link": "https://arweave.net/HAqs2HbkmJ9MhxQpMD1nhc1BwbFq9dhL-pbjfI6KhG8",
+      "onChain": true
+    },
+    "2": {
+      "name": "fleet of pirate ships",
+      "image_hash": "d738638e44e04360cac0f57be8406e74706cd2583db78699f1c184ab700bfb3a",
+      "image_link": "https://arweave.net/Xjsbx7KF6SxWki_Kn5CYRtzHoXMx6ZmX1_ey6VvkE5Y?ext=png",
+      "metadata_hash": "175c64ee35f31a065780b2f27a93b42530033f8472ad047a507dc98b41fab2d1",
+      "metadata_link": "https://arweave.net/7BTCI3h7E2EuMKGfV0i0EkZ_3RSR9N2DfeUAK9UJc2Q",
+      "onChain": true
+    },
+    "3": {
+      "name": "Ship on portside",
+      "image_hash": "1ea4cfca182833c7dc189de6550b3af8f81a26a505391c5d1a43aecfd58b81ab",
+      "image_link": "https://arweave.net/BoiM9HbE1wpw7YBsKtJhJzPhPsgjL6GvtYNd-zPcack?ext=png",
+      "metadata_hash": "af73e8d83449a836f86dab236cb628a583da411545ad425c3425393a0f128640",
+      "metadata_link": "https://arweave.net/jqB7ZtZvxUcs1No5ynUB1_HPTHlBkBQX3j-3beS2gNw",
+      "onChain": true
+    },
+    "4": {
+      "name": "Pirate ship near land",
+      "image_hash": "8f41311c2252b231ce4503d75afcb51aa3ea77eb1ee4ae1a494e774522f53763",
+      "image_link": "https://arweave.net/HlzXWDvStRMzEQpAHMigB1sG_6PNqjdZJOFgx9lcn8c?ext=png",
+      "metadata_hash": "5e27fd9b19273fb4d00e7dc125d42013929bdc6340e452d3946824c25100c263",
+      "metadata_link": "https://arweave.net/bOaDD0sgXqMO1_7_9RZrMDvea_Env2FE1Rh1K8k24FY",
+      "onChain": true
+    }
+  }
+}

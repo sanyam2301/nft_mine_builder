@@ -1,0 +1,23 @@
+{
+  "name": "Pirate ships",
+  "symbol": "PRT",
+  "description": "The scenery of pirate ship fighting in sea",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Shipcolor",
+      "value": "yellow"
+    },{
+        "trait_type":"BackgroundColor",
+        "value":"blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

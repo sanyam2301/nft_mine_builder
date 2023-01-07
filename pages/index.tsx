@@ -44,7 +44,7 @@ const {connected} =useWallet()
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                built with @_buildspace
+                built with help of@_buildspace
               </a>
             </Box>
           </Center>

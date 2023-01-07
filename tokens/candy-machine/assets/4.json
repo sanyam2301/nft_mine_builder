@@ -1,0 +1,23 @@
+{
+  "name": "Pirate ship near land",
+  "symbol": "PRT",
+  "description": "A beautiful 3 storied ship with carving on its side,and reaching sand",
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "Shipcolor",
+      "value": "golden-yellow"
+    },{
+        "trait_type":"BackgroundColor",
+        "value":"blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -2,6 +2,7 @@ import { FC,MouseEventHandler,useCallback } from "react";
 import { Button,Container,Heading,HStack,Text,VStack } from "@chakra-ui/react";
 import { useWalletModal } from "@solana/wallet-adapter-react-ui"
 import { useWallet } from "@solana/wallet-adapter-react"
+import DoorSlidingIcon from '@mui/icons-material/DoorSliding';
 
 
 const Disconnected :FC=() => {
@@ -34,6 +35,7 @@ const Disconnected :FC=() => {
                 >
                     <HStack>
                         <Text>Become a Buildoor</Text>
+                        <DoorSlidingIcon />
                     </HStack>
                 </Button>
             </VStack>
